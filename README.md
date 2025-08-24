@@ -36,6 +36,3 @@ A SIEM dashboard that ingests Windows Event Logs (4624, 4625, 4740) and provides
 - 💼 [LinkedIn](https://www.linkedin.com/in/numanshaik/)  
 - 📧 Email: syednumaan011@gmail.com  
 - 🌐 GitHub: [numanshaik-security](https://github.com/numanshaik-security)  
-
----
-⭐️ Always open to collaborations, mentorship, and entry-level cybersecurity opportunities!
