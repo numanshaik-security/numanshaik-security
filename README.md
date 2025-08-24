@@ -21,7 +21,7 @@ A SIEM dashboard that ingests Windows Event Logs (4624, 4625, 4740) and provides
 - **SIEM:** Splunk, Windows Event Forwarding  
 - **Security:** Log analysis, Incident Detection, Threat Hunting  
 - **Languages:** Python (basic automation), SPL (Splunk Processing Language)  
-- **Certifications:** CompTIA Security+ (in progress / achieved)  
+- **Certifications:** CompTIA Security+ (Achieved)  
 
 ---
 
