@@ -1,38 +1,30 @@
-# 👋 Hi, I'm Numan Shaik  
+# Hey, I’m Numan 👋
 
-🎓 Master's student in **Cybersecurity** (final semester) | 📍 Aspiring SOC Analyst & Detection Engineer  
-🔐 Passionate about **SIEM, log analysis, and threat detection**  
+Final-semester Cybersecurity M.S. student in Houston. I’m aiming for a SOC Analyst / Detection Engineer role and I like building **small, useful labs** that answer real questions like “who scanned me?” and “what did they try?”
 
----
+### What I’m working on
+- **Windows Security Monitoring (Splunk)** – failed logons (4625), lockouts, trends, and brute-force logic  
+- **Snort → Splunk Portscan** – detect Nmap SYN bursts and visualize top sources/ports + timeline
 
-## 🛡️ Featured Project
-### 🔐 [Windows Security Monitoring Dashboard (Splunk)](https://github.com/numanshaik-security/Splunk-security-dashboard)  
-A SIEM dashboard that ingests Windows Event Logs (4624, 4625, 4740) and provides:  
-- ✅ Real-time failed login detection (brute force attempts)  
-- 📊 Visual trends of logons, lockouts, and failure reasons  
-- 🚨 Detection logic (SPL queries) for triage & investigation  
+### Why I built these
+I learn best by instrumenting a tiny network and turning raw logs into **fields, searches, and visuals** that speed up triage.
 
-📸 Includes full **screenshots, queries, lessons learned, and dashboard XML export**.  
-🔗 Perfect portfolio project for SOC & SIEM roles.  
+### Skills & tools
+Splunk (SPL), Windows Event Logs, Snort, Nmap, basic Python, VirtualBox  
+**Cert:** CompTIA Security+
 
----
+### Projects
+- **Windows Security Monitoring (Splunk SIEM)**  
+  Repo: `numanshaik-security/Splunk-security-dashboard`  
+  Focus: 4625/4624/4740, trends, last-50 table, brute-force logic
+- **Snort → Splunk Portscan Demo**  
+  Repo: `numanshaik-security/snort-splunk-portscan-demo`  
+  Focus: SYN-burst alerts, field parsing, top sources/ports, timechart
 
-## 🛠️ Skills & Tools
-- **SIEM:** Splunk, Windows Event Forwarding  
-- **Security:** Log analysis, Incident Detection, Threat Hunting  
-- **Languages:** Python (basic automation), SPL (Splunk Processing Language)  
-- **Certifications:** CompTIA Security+ (Achieved)  
+### What’s next
+- Add Sysmon panels for process/network visibility  
+- Slow-scan detection and enrichment (GeoIP, internal/external tags)
 
----
-
-## 🚀 What I'm Learning Next
-- Advanced detection engineering (Sysmon, Sigma rules)  
-- Automating threat detection with Python + Splunk REST API  
-- Cloud security monitoring (AWS CloudTrail, Azure Sentinel)  
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/numanshaik/)  
-- 📧 Email: numanshaik.cyber@gmail.com  
-- 🌐 GitHub: [numanshaik-security](https://github.com/numanshaik-security)  
+### Say hi
+- **LinkedIn:** https://www.linkedin.com/in/numanshaik  
+- **Email:** numanshaik.cyber@gmail.com
